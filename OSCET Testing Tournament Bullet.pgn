@@ -1,0 +1,456 @@
+[Event "OSCET Testing Tournament"]
+[Site "El ajedrez de Lucas R 1.30a"]
+[Date "2022.03.11"]
+[White "Koivisto 7.0"]
+[Black "Seer 2.4.0"]
+[Result "1-0"]
+[WhiteElo "3607"]
+[BlackElo "3546"]
+[ECO "B31"]
+[PlyCount "71"]
+[Opening "Defensa Siciliana, Ataque Nimzowitsch Rossolimo, con ...g6 sin ...d6"]
+[Termination "Mate"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.Re1 e5 6.Bxc6 bxc6 7.c3 Ne7 8.d4 cxd4 
+9.cxd4 exd4 10.Nxd4 O-O 11.Nc3 Rb8 12.Rb1 Re8 13.Be3 d5 14.exd5 cxd5 15.Qd2 Bf5
+16.Rbd1 Bg4 17.Rc1 Rc8 18.h3 Bd7 19.Nb3 Be6 20.Bd4 Nf5 21.Bxg7 Kxg7 22.Ne2 Rc4 
+23.Nc5 Qd6 24.Rxc4 dxc4 25.Qc3+ Kh6 26.Ne4 Qd3 27.Qc1+ Kg7 28.Nf4 Qd8 29.Rd1 Qa5
+30.Ng5 Bd7 31.Qxc4 Re1+ 32.Kh2 Rxd1 33.Nh5+ Kh8 34.Nxf7+ Kg8 35.Nh6+ Kh8 36.Qg8#
+
+
+[Event "OSCET Testing Tournament"]
+[Site "El ajedrez de Lucas R 1.30a"]
+[Date "2022.03.11"]
+[White "RubiChess 20220223 (ssse3)"]
+[Black "Fire 8.NN.MC.3 x64 popc"]
+[Result "1-0"]
+[WhiteElo "3582"]
+[ECO "B40"]
+[PlyCount "95"]
+[Opening "Defensa Siciliana, Variante Anderssen"]
+[Termination "Mate"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.a3 Be7 7.Nxc6 bxc6 8.e5 Nd5 
+9.Qg4 g6 10.Qg3 h5 11.Ne4 Qa5+ 12.Bd2 Qb6 13.c4 h4 14.Qf3 Qxb2 15.Rd1 Nb6 16.Be2
+O-O 17.Bc3 Qb3 18.O-O c5 19.Rb1 Qa4 20.Bd2 Ba6 21.Bh6 Kh7 22.Bg5 Bxg5 23.Nxg5+ 
+Kg8 24.Qf4 Kg7 25.Qxh4 Rh8 26.Qf4 Raf8 27.Qf6+ Kg8 28.Rfc1 Qxa3 29.h4 Qa2 30.Bd3
+Nd5 31.cxd5 Rh7 32.Nxh7 Bxd3 33.Ra1 Qxa1 34.Rxa1 Kxh7 35.Rxa7 c4 36.Rxd7 c3 
+37.Rxf7+ Rxf7 38.Qxf7+ Kh6 39.d6 c2 40.Qf4+ Kh7 41.d7 Bf5 42.d8=Q g5 43.Qe7+ Kh8
+44.Qe8+ Kh7 45.Qh5+ Kg8 46.Qfxg5+ Bg6 47.Qhxg6+ Kh8 48.Q5f6#
+
+
+[Event "OSCET Testing Tournament"]
+[Site "El ajedrez de Lucas R 1.30a"]
+[Date "2022.03.11"]
+[White "Seer 2.4.0"]
+[Black "RubiChess 20220223 (ssse3)"]
+[Result "0-1"]
+[WhiteElo "3546"]
+[BlackElo "3582"]
+[ECO "B51"]
+[PlyCount "144"]
+[Opening "Defensa Siciliana, Ataque Canal Sokolsky o Nimzowitsch Rossolimo o Moscú"]
+[Termination "Mate"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.O-O Nf6 5.Re1 a6 6.Bf1 b6 7.b4 cxb4 8.d4 e6 9.Bd2
+d5 10.exd5 Nxd5 11.a3 Be7 12.axb4 Nxb4 13.c3 Nd5 14.c4 Nc7 15.Nc3 Bb7 16.Rb1 O-O
+17.h3 a5 18.Bf4 Bb4 19.Re3 Re8 20.Na2 Bf8 21.Nc3 Rc8 22.Ng5 Qf6 23.Qg4 h6 24.Nf3
+Red8 25.Ne5 Na6 26.Nxd7 Rxd7 27.Be5 Qd8 28.Rg3 Nb4 29.d5 exd5 30.cxd5 Nxd5 
+31.Bb5 f5 32.Qxf5 Rf7 33.Qg4 Nxc3 34.Rxc3 Rxc3 35.Bxc3 Bc8 36.Qe2 Qe7 37.Qb2 Be6
+38.Bd3 Qg5 39.Qxb6 Bxh3 40.Qg6 Bf5 41.Qxg5 hxg5 42.Bxf5 Rxf5 43.Rb8 Kf7 44.Rb7+
+Ke6 45.Rb6+ Kd7 46.Ra6 Bb4 47.Bxg7 Kc7 48.Bd4 Rb5 49.Kf1 Bc5 50.Be5+ Kb7 51.Rg6
+a4 52.Ke2 a3 53.Rxg5 Be7 54.Rf5 a2 55.g4 Rxe5+ 56.Rxe5 Ba3 57.Kf1 a1=Q+ 58.Re1 
+Qd4 59.Re3 Bc5 60.Kg2 Qxg4+ 61.Rg3 Qe4+ 62.Kf1 Qf4 63.Kg2 Qxf2+ 64.Kh3 Bd6 
+65.Rg5 Qf4 66.Rg7+ Kc6 67.Rg5 Kb6 68.Rg7 Qh6+ 69.Kg4 Qxg7+ 70.Kh5 Kc6 71.Kh4 Qg6
+72.Kh3 Qg3#
+
+
+[Event "OSCET Testing Tournament"]
+[Site "El ajedrez de Lucas R 1.30a"]
+[Date "2022.03.11"]
+[White "Koivisto 7.0"]
+[Black "Fire 8.NN.MC.3 x64 popc"]
+[Result "1-0"]
+[WhiteElo "3607"]
+[ECO "B20"]
+[PlyCount "181"]
+[Opening "Defensa Siciliana"]
+[Termination "Mate"]
+
+1.e4 c5 2.Nf3 e6 3.g3 Nc6 4.Bg2 Nf6 5.Nc3 d5 6.exd5 exd5 7.d4 cxd4 8.Nxd4 Be7 
+9.Be3 O-O 10.h3 Bb4 11.O-O Re8 12.Nce2 Bd6 13.Bg5 Nxd4 14.Nxd4 h6 15.Bxf6 Qxf6 
+16.c3 Bc5 17.Qa4 Rd8 18.Rfd1 Bd7 19.Qb3 Bc6 20.Rd3 a5 21.Rad1 a4 22.Qc2 g6 
+23.Rf3 Qe5 24.a3 Kg7 25.Rf4 Rd6 26.Rd2 Rf6 27.Rxf6 Qxf6 28.Qd1 h5 29.h4 Rd8 
+30.Nxc6 Qxc6 31.Bf3 Qf6 32.Rxd5 Rxd5 33.Qxd5 Qb6 34.Qe5+ f6 35.Qe2 Bf8 36.Bd5 
+Kh6 37.Qe8 Bg7 38.Bg8 f5 39.Qxa4 Qd6 40.Kg2 b6 41.Bb3 Bf8 42.Qb5 Qf6 43.Qc4 Qd6
+44.Qa4 Bg7 45.Bf7 Qe7 46.Qf4+ Kh7 47.Bd5 Be5 48.Qd2 f4 49.gxf4 Bg7 50.f5 Qxh4 
+51.fxg6+ Kxg6 52.Kf1 Qh3+ 53.Bg2 Qf5 54.Bc6 Qh3+ 55.Kg1 Qg4+ 56.Bg2 Qg5 57.f4 
+Qc5+ 58.Kh2 Qe7 59.Qf2 Qf6 60.Be4+ Kf7 61.Kg3 Bh6 62.Qf3 h4+ 63.Kg4 h3 64.Bd5+ 
+Kf8 65.Kg3 h2 66.Qg4 Ke7 67.Ba8 Kd8 68.Bg2 b5 69.Qf3 Qd6 70.Qe4 Bg5 71.a4 bxa4 
+72.Qxa4 Bh6 73.Qa8+ Ke7 74.Qe4+ Kf8 75.b4 Kf7 76.c4 Kf8 77.Qf5+ Kg7 78.b5 Bxf4+
+79.Qxf4 Qxf4+ 80.Kxf4 Kf6 81.b6 Ke6 82.b7 h1=Q 83.Bxh1 Kd7 84.b8=Q Ke7 85.Qa7+ 
+Kd8 86.Qa5+ Kd7 87.Ke4 Kc8 88.Kd5 Kb8 89.Bf3 Kb7 90.Kd6+ Kc8 91.Qa8#
+
+
+[Event "OSCET Testing Tournament"]
+[Site "El ajedrez de Lucas R 1.30a"]
+[Date "2022.03.11"]
+[White "Seer 2.4.0"]
+[Black "Koivisto 7.0"]
+[Result "0-1"]
+[WhiteElo "3546"]
+[BlackElo "3607"]
+[ECO "B20"]
+[PlyCount "181"]
+[Opening "Defensa Siciliana"]
+[Termination "Ganado por tiempo"]
+
+1.e4 c5 2.Nf3 e6 3.c3 Nf6 4.e5 Nd5 5.g3 d6 6.Bg2 dxe5 7.Nxe5 Be7 8.a4 Nd7 9.Nc4
+b6 10.d3 O-O 11.Qg4 Bb7 12.Bh6 Bf6 13.O-O a6 14.Re1 b5 15.Nd6 Bc6 16.Ne4 Be5 
+17.Bg5 Qb6 18.Qe2 h6 19.Bc1 Rfe8 20.Nbd2 Bc7 21.axb5 axb5 22.Rxa8 Rxa8 23.c4 Ne7
+24.cxb5 Qxb5 25.Nc4 Nf5 26.Nc3 Qb7 27.Bxc6 Qxc6 28.Qe4 Qa6 29.Be3 Rb8 30.h3 Rb4
+31.Qg2 Rb3 32.Qe4 Bd8 33.Qf4 Qa7 34.Rb1 Bg5 35.Qf3 Nxe3 36.fxe3 Bf6 37.Qd1 Qb8 
+38.Ne4 Be7 39.Kf1 Nf6 40.Nc3 Nd5 41.Ne2 Rb4 42.b3 Rb7 43.h4 Rd7 44.Kg2 Nb4 
+45.Nf4 Bd6 46.Kh2 Bxf4 47.exf4 Rxd3 48.Qc1 Nc6 49.Qc2 Rd8 50.Qe4 Nd4 51.Ne5 h5 
+52.Kg2 Rd5 53.Kh3 Qb7 54.Rc1 Qa6 55.Rb1 Qa3 56.Qg2 Qa5 57.Qe4 Qc3 58.Qd3 Qxd3 
+59.Nxd3 Kh7 60.Nf2 Nf5 61.b4 cxb4 62.Rxb4 Rd2 63.Ne4 Re2 64.Nc3 Re1 65.Kg2 Nxg3
+66.Kxg3 Re3+ 67.Kg2 Rxc3 68.Rb5 Kg6 69.Rg5+ Kh6 70.Ra5 Rd3 71.Rb5 Rd5 72.Rb7 Kg6
+73.Re7 Rd3 74.Rb7 Rd4 75.Kf3 Rd5 76.Kf2 Rc5 77.Rd7 f6 78.Kg2 Rc4 79.Kg3 Re4 
+80.Ra7 Re3+ 81.Kg2 Re1 82.Kg3 Rg1+ 83.Kf3 Rg4 84.Ra6 Rxh4 85.Rxe6 Kf5 86.Ra6 
+Rxf4+ 87.Kg3 Rg4+ 88.Kh2 Kf4 89.Ra5 Rh4+ 90.Kg2 Rg4+ 91.Kh1
+
+
+[Event "OSCET Testing Tournament"]
+[Site "El ajedrez de Lucas R 1.30a"]
+[Date "2022.03.11"]
+[White "Coiled 1.1 x64"]
+[Black "RubiChess 20220223 (ssse3)"]
+[Result "1/2-1/2"]
+[WhiteElo "2726"]
+[BlackElo "3582"]
+[ECO "D37"]
+[PlyCount "53"]
+[Opening "Gambito de Dama Rehusado, 4.Cf3"]
+[Termination "Adjudicación"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 a6 5.cxd5 exd5 6.Bf4 Bd6 7.Bxd6 Qxd6 8.e3 c6 
+9.h3 Bf5 10.Bd3 Bxd3 11.Qxd3 O-O 12.O-O Nbd7 13.Rfc1 Qe7 14.Qd1 Ne8 15.a4 a5 
+16.Rc2 Nc7 17.Ne1 Ne6 18.Nd3 Nf6 19.Qb1 Ne8 20.Rc1 Ra6 21.b4 axb4 22.Qxb4 Qxb4 
+23.Nxb4 Ra5 24.Rab1 Nd6 25.Nd3 Rfa8 26.g4 R8a7 27.Kf1
+
+
+[Event "OSCET Testing Tournament"]
+[Site "El ajedrez de Lucas R 1.30a"]
+[Date "2022.03.11"]
+[White "Fire 8.NN.MC.3 x64 popc"]
+[Black "RubiChess 20220223 (ssse3)"]
+[Result "1/2-1/2"]
+[BlackElo "3582"]
+[ECO "B20"]
+[PlyCount "50"]
+[Opening "Defensa Siciliana"]
+[Termination "Adjudicación"]
+
+1.e4 c5 2.Nf3 e6 3.c3 Nf6 4.e5 Nd5 5.a3 d6 6.d4 cxd4 7.cxd4 Be7 8.Bc4 O-O 9.O-O
+dxe5 10.dxe5 a5 11.Re1 h6 12.Qd4 Nb6 13.Qg4 h5 14.Qe4 Nxc4 15.Qxc4 b5 16.Qe4 Ra6
+17.h4 Rc6 18.Ng5 g6 19.Nf3 Rc4 20.Qe2 Bb7 21.Bh6 Re4 22.Qf1 Rxe1 23.Qxe1 Bxf3 
+24.Bxf8 Bxf8 25.gxf3 Qxh4
+
+
+[Event "OSCET Testing Tournament"]
+[Site "El ajedrez de Lucas R 1.30a"]
+[Date "2022.03.11"]
+[White "Seer 2.4.0"]
+[Black "Fire 8.NN.MC.3 x64 popc"]
+[Result "1-0"]
+[WhiteElo "3546"]
+[ECO "B20"]
+[PlyCount "123"]
+[Opening "Defensa Siciliana"]
+[Termination "Mate"]
+
+1.e4 c5 2.Nf3 e6 3.c3 Nc6 4.d4 d5 5.exd5 exd5 6.Bd3 Nf6 7.O-O cxd4 8.Nxd4 Be7 
+9.h3 O-O 10.Be3 Ne5 11.Bc2 Nc4 12.Bc1 Bc5 13.a4 Ne4 14.b4 Bd6 15.Bxe4 dxe4 
+16.Qe2 Qh4 17.f4 Nb6 18.Qxe4 a5 19.Nb5 Bb8 20.Be3 Nd7 21.Nd2 Ra6 22.bxa5 Nf6 
+23.Qf3 Nh5 24.Ne4 Bf5 25.Bb6 Bxe4 26.Qxe4 Nxf4 27.Qf3 Re8 28.Nd4 h6 29.Rad1 f6 
+30.Kh1 Nh5 31.Qxb7 Qg3 32.Nf3 Rxb6 33.axb6 Kh7 34.Rde1 Rf8 35.a5 f5 36.Qd5 Qg6 
+37.Qe6 Qg3 38.Qe3 Rf6 39.Ne5 Qh4 40.Nd7 Ng3+ 41.Kg1 Bd6 42.Nxf6+ gxf6 43.Qd4 
+Ne2+ 44.Rxe2 Qg3 45.Rf3 Qh2+ 46.Kf1 Kg7 47.b7 h5 48.Qg1 Qxg1+ 49.Kxg1 Kf7 
+50.Rxf5 Bb8 51.Rxh5 f5 52.Kf1 Ba7 53.Rxf5+ Kg6 54.Rf3 Kh7 55.a6 Kg6 56.Re8 Kg7 
+57.Ra8 Be3 58.Rxe3 Kg6 59.Rf3 Kg7 60.b8=Q Kg6 61.Qh8 Kg5 62.Rg8#
+
+
+[Event "OSCET Testing Tournament"]
+[Site "El ajedrez de Lucas R 1.30a"]
+[Date "2022.03.11"]
+[White "Seer 2.4.0"]
+[Black "Coiled 1.1 x64"]
+[Result "1/2-1/2"]
+[WhiteElo "3546"]
+[BlackElo "2726"]
+[ECO "C02"]
+[PlyCount "97"]
+[Opening "Defensa Francesa, Variante del Avance, Variante Euwe"]
+[Termination "Adjudicación"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 Nge7 7.Na3 cxd4 8.Nb5 Ng6 
+9.cxd4 a6 10.Nc3 f6 11.exf6 Qxf6 12.Bg5 Qf7 13.Na4 h6 14.Bd2 Rd8 15.Rc1 Bd6 
+16.Nc5 Bc8 17.O-O O-O 18.Nd3 Qf6 19.Be3 Nge7 20.Nde5 Bd7 21.Ng4 Qg6 22.Nh4 Qe8 
+23.f4 Nf5 24.Nxf5 Rxf5 25.Ne5 Bxe5 26.dxe5 Ne7 27.Bb6 Rc8 28.Bg4 Rxc1 29.Qxc1 
+Rf8 30.Bc5 Qf7 31.Qd1 Bb5 32.Rf2 Rc8 33.Bh5 Qf8 34.b4 Be8 35.Bf3 Bg6 36.f5 Bxf5
+37.g4 Bg6 38.Bxd5 Qxf2+ 39.Kxf2 Nxd5 40.Qa4 Be8 41.Qa5 Bb5 42.a4 b6 43.Bxb6 Rc2+
+44.Kg3 Rc3+ 45.Kg2 Rc2+ 46.Bf2 Bd3 47.Qd8+ Kh7 48.Qd6 Be4+ 49.Kf1
+
+
+[Event "OSCET Testing Tournament"]
+[Site "El ajedrez de Lucas R 1.30a"]
+[Date "2022.03.11"]
+[White "Fire 8.NN.MC.3 x64 popc"]
+[Black "Seer 2.4.0"]
+[Result "1/2-1/2"]
+[BlackElo "3546"]
+[ECO "B57"]
+[PlyCount "52"]
+[Opening "Defensa Siciliana, Ataque Sozin (no Scheveningen)"]
+[Termination "Adjudicación"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 e6 7.Be3 Be7 8.Qe2 O-O 
+9.O-O-O Na5 10.e5 Ne8 11.exd6 Nxd6 12.Bd3 a6 13.Bf4 Bd7 14.h4 Rc8 15.Qh5 g6 
+16.Qh6 Re8 17.Be5 Bf8 18.Qf4 Nac4 19.Bxc4 Nxc4 20.Nf3 f5 21.Rd4 Nxe5 22.Nxe5 Bg7
+23.Re1 Qc7 24.h5 Red8 25.hxg6 hxg6 26.g4 b5
+
+
+[Event "OSCET Testing Tournament"]
+[Site "El ajedrez de Lucas R 1.30a"]
+[Date "2022.03.11"]
+[White "Fire 8.NN.MC.3 x64 popc"]
+[Black "Koivisto 7.0"]
+[Result "1/2-1/2"]
+[BlackElo "3607"]
+[ECO "C02"]
+[PlyCount "66"]
+[Opening "Defensa Francesa, Variante del Avance"]
+[Termination "Adjudicación"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Bd7 5.Nf3 Nc6 6.a3 Qa5 7.dxc5 Qc7 8.Bf4 Bxc5 9.Bg3
+a5 10.Nbd2 Nge7 11.Bd3 a4 12.O-O h6 13.Bc2 b5 14.Qe2 O-O 15.Qd3 Nf5 16.Rae1 Nce7
+17.Nh4 d4 18.Ne4 Rfd8 19.Rd1 dxc3 20.Nf6+ gxf6 21.exf6 Qc6 22.fxe7 Bxe7 23.Nxf5
+exf5 24.Be5 cxb2 25.Bxb2 Be6 26.Qg3+ Bg5 27.Rxd8+ Rxd8 28.Bxf5 Bxf5 29.Qe5 Bf6 
+30.Qxf6 Qxf6 31.Bxf6 Rd3 32.Be7 h5 33.Re1 h4
+
+
+[Event "OSCET Testing Tournament"]
+[Site "El ajedrez de Lucas R 1.30a"]
+[Date "2022.03.11"]
+[White "Fire 8.NN.MC.3 x64 popc"]
+[Black "Coiled 1.1 x64"]
+[Result "1/2-1/2"]
+[BlackElo "2726"]
+[ECO "C48"]
+[PlyCount "53"]
+[Opening "Apertura de los 4 Caballos, Variante Española o Ruy López"]
+[Termination "Tablas por repetición"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bd6 5.O-O Nd4 6.Bc4 c6 7.d3 Nxf3+ 8.Qxf3 O-O 
+9.a4 Bc5 10.Bg5 d6 11.a5 Be6 12.h3 Rc8 13.Ne2 h6 14.Bxf6 Qxf6 15.Qxf6 gxf6 16.b4
+Bxb4 17.Rfb1 Bc5 18.Bxe6 fxe6 19.Rxb7 Rb8 20.Rab1 Rxb7 21.Rxb7 a6 22.g4 f5 23.c3
+Rf7 24.Rb8+ Rf8 25.Rb7 Rf7 26.Rb8+ Rf8 27.Rb7
+
+
+[Event "OSCET Testing Tournament"]
+[Site "El ajedrez de Lucas R 1.30a"]
+[Date "2022.03.11"]
+[White "RubiChess 20220223 (ssse3)"]
+[Black "Koivisto 7.0"]
+[Result "0-1"]
+[WhiteElo "3582"]
+[BlackElo "3607"]
+[ECO "C50"]
+[PlyCount "158"]
+[Opening "Apertura Italiana o Giuoco Piano"]
+[Termination "Mate"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 O-O 6.c3 d6 7.Bg5 a6 8.a4 h6 9.Bh4 
+Ba7 10.b4 g5 11.Bg3 Ne7 12.Nbd2 Ng6 13.d4 exd4 14.Nxd4 h5 15.f3 h4 16.Bf2 c6 
+17.Qc2 Re8 18.Rae1 Nh5 19.Bb3 Qf6 20.Nc4 Bd7 21.Rd1 b5 22.Ne3 h3 23.Ng4 Bxg4 
+24.fxg4 hxg2 25.Kxg2 Nhf4+ 26.Kh1 c5 27.Ne2 c4 28.Ba2 Nxe2 29.Qxe2 Nf4 30.Qf3 
+Bxf2 31.Rxf2 Kg7 32.h4 Rh8 33.h5 Rae8 34.Bb1 Rh6 35.a5 Qe6 36.Bc2 Rf6 37.Qg3 Qe7
+38.Rff1 Qe5 39.Rd2 Nxh5 40.Qxe5 dxe5 41.Rxf6 Nxf6 42.Bd1 Nxe4 43.Rc2 Nf6 44.Rd2
+e4 45.Be2 Re5 46.Rc2 Nd5 47.Kh2 Kf6 48.Kg3 Re7 49.Bf1 Ke5 50.Rc1 Re6 51.Bg2 Rf6
+52.Rc2 Rf4 53.Rc1 Ne3 54.Bh1 Rxg4+ 55.Kf2 Nd5 56.Bg2 Nf4 57.Bxe4 Kxe4 58.Re1+ 
+Kd3 59.Kf3 Rh4 60.Re5 Kxc3 61.Rxg5 Ne6 62.Rg2 Kxb4 63.Ra2 c3 64.Ra1 Nd4+ 65.Kf2
+Nb3 66.Re1 c2 67.Kg3 Rc4 68.Kf2 c1=Q 69.Rxc1 Rxc1 70.Ke2 Nxa5 71.Kd3 Ka3 72.Kd4
+b4 73.Ke5 Rc6 74.Kf5 b3 75.Ke4 b2 76.Ke3 b1=Q 77.Kf2 Qb3 78.Kg2 Rc2+ 79.Kg1 Qb1#
+
+
+[Event "OSCET Testing Tournament"]
+[Site "El ajedrez de Lucas R 1.30a"]
+[Date "2022.03.11"]
+[White "Koivisto 7.0"]
+[Black "RubiChess 20220223 (ssse3)"]
+[Result "1-0"]
+[WhiteElo "3607"]
+[BlackElo "3582"]
+[ECO "B51"]
+[PlyCount "169"]
+[Opening "Defensa Siciliana, Ataque Canal Sokolsky o Nimzowitsch Rossolimo o Moscú"]
+[Termination "Adjudicación"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.O-O a6 5.Bxd7+ Bxd7 6.d4 cxd4 7.Qxd4 Nf6 8.Re1 Bg4
+9.Nfd2 Rc8 10.Nc3 Bd7 11.Qa7 Qc7 12.Nb3 e6 13.Be3 Be7 14.Rad1 Bd8 15.Bf4 e5 
+16.Bg5 Be6 17.Bxf6 Bxf6 18.Nd5 Bxd5 19.Rxd5 O-O 20.c3 Bg5 21.Na5 b6 22.Qxc7 Rxc7
+23.Nb3 Rd8 24.Red1 Be7 25.Na1 Rc4 26.f3 Kf8 27.Nc2 Ra4 28.a3 Rc8 29.Ne3 g6 30.g3
+b5 31.Kf2 Ke8 32.Ra1 Ra5 33.f4 Ra4 34.Kf3 exf4 35.gxf4 Rc6 36.Rd3 Rc8 37.Nd5 Bd8
+38.Rd2 h6 39.Ne3 Be7 40.Rad1 Rc5 41.Nd5 Bd8 42.Rg2 Kf8 43.Re2 g5 44.Rg2 gxf4 
+45.Rdg1 Bg5 46.Nb6 Rac4 47.Nxc4 Rxc4 48.Rd1 Ke7 49.Rd5 Ke6 50.Rgd2 Rc6 51.Rd1 
+Rb6 52.Rf5 Ke7 53.Rh1 a5 54.h4 Bf6 55.Ra1 Bxh4 56.Kxf4 Bg5+ 57.Kf3 Ke6 58.Ke2 f6
+59.Rh1 a4 60.Rh5 Rb7 61.Rd5 Kd7 62.Rh1 Bf4 63.Rg1 Rb8 64.Rg7+ Kc6 65.Kd3 Be5 
+66.Ra7 Kb6 67.Rh7 Rg8 68.Kc2 Rg2+ 69.Rd2 Rg4 70.Rf2 Rh4 71.Rg2 Kc6 72.Rg8 Rxe4 
+73.Kd3 Rh4 74.Rc8+ Kd5 75.Rb7 Rh3+ 76.Kc2 Ke4 77.Rxb5 Rh2+ 78.Kb1 f5 79.Rb4+ Ke3
+80.Rxa4 h5 81.Rb4 f4 82.Rf8 f3 83.Ka2 f2 84.Rb7 Bf4 85.Re7+
+
+
+[Event "OSCET Testing Tournament"]
+[Site "El ajedrez de Lucas R 1.30a"]
+[Date "2022.03.11"]
+[White "Coiled 1.1 x64"]
+[Black "Fire 8.NN.MC.3 x64 popc"]
+[Result "0-1"]
+[WhiteElo "2726"]
+[ECO "D41"]
+[PlyCount "195"]
+[Opening "Gambito de Dama Rehusado, Defensa Semi Tarrasch, 5.cxd5"]
+[Termination "Ganado por tiempo"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 Be7 8.Bc4 O-O 
+9.O-O Qc7 10.Qe2 Nc6 11.Rd1 Na5 12.Bd3 Bd7 13.Be3 Rac8 14.Rac1 Rfd8 15.Ne5 Ba4 
+16.Re1 f6 17.Nf3 Be8 18.e5 f5 19.g4 Qd7 20.Rcd1 fxg4 21.Ng5 h6 22.Ne4 cxd4 
+23.cxd4 Kh8 24.Qxg4 Bf7 25.Qh3 Bf8 26.Nd6 Rc3 27.Bg5 Rb8 28.d5 Bg8 29.Ne4 Ra3 
+30.Nf6 Qf7 31.Nxg8 Qxg8 32.Kh1 exd5 33.e6 d4 34.e7 Qd5+ 35.Qg2 Qxg2+ 36.Kxg2 
+hxg5 37.e8=Q Rxe8 38.Rxe8 Kg8 39.Bg6 g4 40.Rxf8+ Kxf8 41.Re1 Re3 42.fxe3 d3 
+43.Bxd3 Ke7 44.Rg1 g3 45.Kxg3 Nc6 46.Be4 Nd8 47.Kg2 Ne6 48.Bxb7 Nc5 49.Bf3 Nd3 
+50.Kf1 Kf6 51.Rg3 Nb4 52.Bh5 Nd5 53.Ke1 Nxe3 54.Rxe3 g6 55.Bg4 a5 56.Be2 Kg7 
+57.Bb5 g5 58.Kd1 g4 59.Bd7 g3 60.Rxg3+ Kh7 61.Bc6 a4 62.Be4+ Kh6 63.Ba8 a3 
+64.Rxa3 Kg6 65.Rc3 Kf6 66.Bg2 Kg6 67.Rc2 Kf7 68.Bd5+ Kg6 69.Rf2 Kg7 70.Re2 Kg6 
+71.Be4+ Kg7 72.Rf2 Kh6 73.Rg2 Kh5 74.Rg3 Kh6 75.Bd3 Kh5 76.Rg6 Kh4 77.Bf1 Kh5 
+78.Rg2 Kh6 79.Bd3 Kh5 80.Be2+ Kh6 81.Bd3 Kh5 82.Be4 Kh6 83.Rg1 Kh5 84.Rg2 Kh6 
+85.Rg8 Kh5 86.Rg3 Kh6 87.Rg1 Kh5 88.Rf1 Kg5 89.Bd3 Kg4 90.Re1 Kg5 91.Re3 Kh5 
+92.Rg3 Kh4 93.Re3 Kh5 94.Re1 Kg5 95.Re2 Kf6 96.Ba6 Kg7 97.Rc2 Kh8 98.Rc1
+
+
+[Event "OSCET Testing Tournament"]
+[Site "El ajedrez de Lucas R 1.30a"]
+[Date "2022.03.11"]
+[White "Coiled 1.1 x64"]
+[Black "Koivisto 7.0"]
+[Result "0-1"]
+[WhiteElo "2726"]
+[BlackElo "3607"]
+[ECO "A45"]
+[PlyCount "100"]
+[Opening "Peón de Dama"]
+[Termination "Mate"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Bg5 dxc4 5.Nc3 c5 6.e3 cxd4 7.exd4 Qc7 8.Qa4+ Bd7 
+9.Qxc4 Qxc4 10.Bxc4 Bb4 11.a3 Bxc3+ 12.bxc3 Ne4 13.Bd2 Nc6 14.Bd3 Nxd2 15.Kxd2 
+Na5 16.Rhb1 Bc6 17.Bb5 Rc8 18.Rb4 Ke7 19.Bxc6 Rxc6 20.Kd3 b6 21.a4 Rhc8 22.Rc1 
+f6 23.c4 R6c7 24.Rc3 Rd8 25.Ke3 g5 26.h3 h5 27.g4 hxg4 28.hxg4 Rh8 29.Nd2 Nc6 
+30.Rb5 Kf7 31.f3 Rh1 32.d5 Ne5 33.a5 exd5 34.axb6 axb6 35.Rxd5 Kg7 36.Rb3 Rc6 
+37.Rdb5 Rh2 38.Rc3 Re6 39.Ne4 Kg6 40.c5 bxc5 41.Rbxc5 Rh1 42.Rc8 Nxg4+ 43.fxg4 
+Re1+ 44.Kf2 R1xe4 45.Kg3 Ra6 46.R8c4 Re2 47.Rc6 Raa2 48.Rf3 Rg2+ 49.Kh3 Rh2+ 
+50.Kg3 Rag2#
+
+
+[Event "OSCET Testing Tournament"]
+[Site "El ajedrez de Lucas R 1.30a"]
+[Date "2022.03.11"]
+[White "Koivisto 7.0"]
+[Black "Coiled 1.1 x64"]
+[Result "1-0"]
+[WhiteElo "3607"]
+[BlackElo "2726"]
+[ECO "C07"]
+[PlyCount "121"]
+[Opening "Defensa Francesa, Variante Tarrasch, Variante Abierta"]
+[Termination "Mate"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 Qxd5 5.Ngf3 cxd4 6.Bc4 Qd6 7.O-O Nf6 8.Nb3 Nc6 
+9.Nbxd4 Nxd4 10.Qxd4 Qxd4 11.Nxd4 Be7 12.Be2 O-O 13.Rd1 Rd8 14.Bf4 Nd5 15.Bg3 
+Bd7 16.c4 Nb4 17.a3 Nc6 18.Nb5 e5 19.Bf3 Na5 20.Nc7 Rab8 21.Nd5 Bf6 22.Rac1 Ba4
+23.Rd3 Kf8 24.b4 Nb3 25.Re1 Rbc8 26.c5 b6 27.Bg4 Rb8 28.cxb6 axb6 29.Bxe5 Nc1 
+30.Rh3 Ne2+ 31.Bxe2 Bxe5 32.Bd1 Bxd1 33.Rxd1 Ra8 34.Rhd3 Ra6 35.R1d2 Rda8 36.f4
+Bd6 37.Rc2 g5 38.Nf6 b5 39.fxg5 Be7 40.Rf3 Bxf6 41.gxf6 Kg8 42.Rcc3 h6 43.h4 Kh7
+44.h5 R8a7 45.Kh2 Re6 46.Rf5 Rb7 47.Kh3 Re2 48.Rg3 Re6 49.Rd3 Re2 50.g3 Re1 
+51.Kg4 Re4+ 52.Kf3 Re6 53.Re3 Ra6 54.Kf4 Rbb6 55.Kg4 Kh8 56.Rfe5 Kg8 57.Rd3 Kh8
+58.Rd8+ Kh7 59.Ree8 Rxf6 60.Rh8+ Kg7 61.Rdg8#
+
+
+[Event "OSCET Testing Tournament"]
+[Site "El ajedrez de Lucas R 1.30a"]
+[Date "2022.03.11"]
+[White "Coiled 1.1 x64"]
+[Black "Seer 2.4.0"]
+[Result "0-1"]
+[WhiteElo "2726"]
+[BlackElo "3546"]
+[ECO "A45"]
+[PlyCount "108"]
+[Opening "Peón de Dama"]
+[Termination "Mate"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.Nc3 c5 5.cxd5 cxd4 6.Qxd4 exd5 7.Bg5 Be7 8.Rd1 O-O 
+9.e3 Nc6 10.Qd2 Bb4 11.Be2 h6 12.Bxf6 Qxf6 13.O-O Bxc3 14.bxc3 Rd8 15.Nd4 Bd7 
+16.Nxc6 bxc6 17.Qd4 Be6 18.Qxf6 gxf6 19.Rb1 Rdb8 20.Rb3 a5 21.Ra1 c5 22.Kf1 c4 
+23.Rbb1 a4 24.Rb4 Rxb4 25.cxb4 a3 26.Ke1 Rb8 27.Rb1 Bf5 28.Rd1 Rxb4 29.Bf3 Rb2 
+30.Bxd5 Rxa2 31.Bxc4 Rc2 32.Bd5 Be6 33.Bxe6 fxe6 34.Rd8+ Kh7 35.Rd1 a2 36.e4 Rb2
+37.Rd7+ Kg6 38.Ra7 Rb1+ 39.Ke2 a1=Q 40.Rxa1 Rxa1 41.Kf3 Ra3+ 42.Kg4 h5+ 43.Kh4 
+Ra4 44.f3 f5 45.g4 fxg4 46.fxg4 Rxe4 47.Kh3 hxg4+ 48.Kg3 Kg5 49.h4+ Kh5 50.Kf2 
+Kxh4 51.Kg2 e5 52.Kf2 Kh3 53.Kg1 Rf4 54.Kh1 Rf1#
+
+
+[Event "OSCET Testing Tournament"]
+[Site "El ajedrez de Lucas R 1.30a"]
+[Date "2022.03.11"]
+[White "RubiChess 20220223 (ssse3)"]
+[Black "Coiled 1.1 x64"]
+[Result "1-0"]
+[WhiteElo "3582"]
+[BlackElo "2726"]
+[ECO "C25"]
+[PlyCount "143"]
+[Opening "Apertura Vienesa, Defensa Max Lange"]
+[Termination "Mate"]
+
+1.e4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6 7.Bd3 O-O 8.O-O d5
+9.Qf3 Bg4 10.Qf4 Bxc3 11.bxc3 dxe4 12.Bxe4 Nxe4 13.Qxe4 Qd7 14.Bf4 Bf5 15.Qa4 
+Qe6 16.Rfe1 Qg6 17.Bxc7 Bxc2 18.Qd4 Rfe8 19.f3 h5 20.h3 Bf5 21.Kh2 f6 22.a3 Qf7
+23.Bg3 Be6 24.Qa4 Bd5 25.Rac1 Rxe1 26.Rxe1 Kh7 27.Rd1 Re8 28.c4 Bxc4 29.Qxc6 Be6
+30.Qb5 Kg6 31.Rd6 Kh7 32.a4 Re7 33.Rd8 Kg6 34.Bd6 Rb7 35.Qa5 Bf5 36.g4 Qa2+ 
+37.Kg3 Bxg4 38.hxg4 hxg4 39.Kxg4 Qe6+ 40.Kh4 Qc4+ 41.f4 Qe2 42.f5+ Kh7 43.Qd5 
+Rf7 44.Qxf7 Qe4+ 45.Kg3 Qd3+ 46.Kg4 Qd1+ 47.Kg3 Qd3+ 48.Kf2 Qd2+ 49.Kf1 Qd3+ 
+50.Ke1 Qe3+ 51.Kd1 Qd3+ 52.Kc1 Qe3+ 53.Kc2 Qe4+ 54.Kc3 Qe3+ 55.Kc4 Qc1+ 56.Kd5 
+Qd2+ 57.Ke6 Qa2+ 58.Ke7 Qxf7+ 59.Kxf7 Kh6 60.Bf4+ Kh5 61.Bb8 Kg5 62.Rd5 Kh6 
+63.Bxa7 Kg5 64.Kxg7 Kf4 65.Kxf6 Ke4 66.Ke6 Kf3 67.f6 Ke4 68.f7 Kf3 69.f8=Q+ Kg4
+70.Qf5+ Kg3 71.Rd3+ Kh4 72.Rh3#
+
+
+[Event "OSCET Testing Tournament"]
+[Site "El ajedrez de Lucas R 1.30a"]
+[Date "2022.03.11"]
+[White "RubiChess 20220223 (ssse3)"]
+[Black "Seer 2.4.0"]
+[Result "1/2-1/2"]
+[WhiteElo "3582"]
+[BlackElo "3546"]
+[ECO "B51"]
+[PlyCount "63"]
+[Opening "Defensa Siciliana, Ataque Canal Sokolsky o Nimzowitsch Rossolimo o Moscú"]
+[Termination "Adjudicación"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.c4 g6 5.Nc3 Nf6 6.Ba4 Bg7 7.d3 b6 8.Bc6 Rb8 9.d4 
+O-O 10.O-O cxd4 11.Nxd4 Ne5 12.b3 Bd7 13.Bxd7 Qxd7 14.Bb2 Qb7 15.Qe2 Ned7 
+16.Rad1 a6 17.f4 e5 18.Nf3 exf4 19.Rxd6 Rfe8 20.e5 b5 21.e6 fxe6 22.cxb5 axb5 
+23.Rxe6 Rxe6 24.Qxe6+ Kh8 25.Qd6 Ng4 26.h3 Ne3 27.Rf2 Nf5 28.Qxf4 Nc5 29.Rd2 Ne6
+30.Qe4 Qb6+ 31.Rf2 Rd8 32.Nd5
+
+
